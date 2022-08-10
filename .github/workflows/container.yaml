@@ -1,4 +1,4 @@
-name: Java CI with Gradle
+name: Push landingpage to registry
 
 on:
   push:
